@@ -35,7 +35,7 @@ Users will be prompted to:
    - Open the terminal on your computer.
    - Enter the command:
      ```bash
-     git clone [YOUR_GITHUB_REPOSITORY_LINK]
+     git clone https://github.com/vladgohn/PhotoshopSettingsBackupTool.git
      ```
    - Navigate to the directory with the tool using the command
 
