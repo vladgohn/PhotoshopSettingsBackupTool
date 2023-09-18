@@ -21,7 +21,7 @@ Users will be prompted to:
 ### Status Indicators:
 
 - 🟢: Action completed successfully.
-- 🔥: An error occurred.
+- 😱: An error occurred.
 
 ### Compatibility:
 
